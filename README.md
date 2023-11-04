@@ -1,10 +1,10 @@
 # Watchdog : AI-Powered DDOS Protection Engine
 **Watchdog** is an AI-powered DDoS protection engine that analyzes your network packets and notifies you about suspicious addresses connected to your network.
 
-We tested the **Watchdog** engine in one of the largest CDN providers in Iran, which handles 10% of the country’s traffic. Initially, the traffic was monitored by humans, but it was so inefficient that we had to create an AI-based solution. It took us about two years to make the project ready to launch. Now, we have decided to launch this project as a free DDoS protection Engine.
+We tested the **Watchdog** engine in one of the largest CDN providers in Iran, which handles 10% of the country’s traffic. Initially, the traffic was monitored by humans, but it was so inefficient that we had to create an AI-based solution. It took us about two years to make the project ready to launch. Now, we have decided to launch this project as a free DDoS protection engine.
 
 # Request
-**Watchdog**  listens on **188.121.102.79:9001** & uses Transport Layer Security (TLS) to establish a secure connection.
+**Watchdog** listens on **188.121.102.79:9001** & uses Transport Layer Security (TLS) to establish a secure connection.
 
 ## Packet Header Data Structure
 |Field Size		|Description   |Comment  			  					        |
